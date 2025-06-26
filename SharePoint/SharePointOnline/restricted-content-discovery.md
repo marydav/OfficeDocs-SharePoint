@@ -39,6 +39,9 @@ While child content is hidden by default, users in your organization can still d
 
 Restricted Content Discovery doesn't affect searches originating from a site context or other intelligent features such as Microsoft 365 Feed and Recommendations.
 
+> [!NOTE]
+> Restricted Content Discovery will disable search for hub sites if it is toggled on for a hub site.
+
 ## Use cases for Restricted Content Discovery
 
 Restricted Content Discovery can be applied to any SharePoint site in your organization. The key use case for this feature is to prevent accidental discovery of high-risk sites.
